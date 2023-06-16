@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have been learning coding recently
+I have been learning to code recently
 
 <!--
 **gnsamine/gnsamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
