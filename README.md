@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have been learning to code recently
+I have been learning to code recently, starting with 'golang'.
 
 <!--
 **gnsamine/gnsamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,9 @@ I have been learning to code recently
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+golang
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
