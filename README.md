@@ -1,5 +1,10 @@
 ### Hi there 👋
 I have been learning to code recently, starting with 'golang'.
+- 📫 How to reach me: ...
+amine0gunes@gmail.com
+https://www.linkedin.com/feed/
+- 🌱 I’m currently learning ...
+golang
 
 <!--
 **gnsamine/gnsamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
