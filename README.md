@@ -1,8 +1,7 @@
 ### Hi there 👋
 I have been learning to code recently, starting with 'golang'.
 - 📫 How to reach me:
-amine0gunes@gmail.com or 
-https://www.linkedin.com/feed/
+amine0gunes@gmail.com 
 - 🌱 I’m currently learning
 golang
 
