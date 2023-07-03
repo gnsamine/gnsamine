@@ -1,9 +1,9 @@
 ### Hi there 👋
-I have been learning to code recently, starting with 'golang'.
+I have been learning to code recently, starting with 'go'.
 - 📫 How to reach me:
 amine0gunes@gmail.com 
 - 🌱 I’m currently learning
-golang
+go
 
 <!--
 **gnsamine/gnsamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
